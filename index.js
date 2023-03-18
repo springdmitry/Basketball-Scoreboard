@@ -46,5 +46,4 @@ function newGame() {
    homeScore.textContent = countH
    guestScore.textContent = countG 
    
-   
 }
