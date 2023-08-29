@@ -53,9 +53,9 @@ button {
     background: inherit;
 }
 
-#home-score,#guest-score {
+#home-score, #guest-score {
     font-family: Cursed Timer ULiL;
-    color: #F94F6D;
+    color: #9f3a4c;
     background: #111827;
     font-weight: 300;
     font-size: 90px;
